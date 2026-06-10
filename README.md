@@ -8,5 +8,5 @@ Este es mi primer proyecto en GitHub.
 - Colaborar con otros
 
 ## Autor
-- Nombre: Tu Nombre
+- Nombre: Génesis Serna Vergara
 - Carrera: Ingeniería en Informática
